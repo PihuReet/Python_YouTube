@@ -15,3 +15,7 @@ Using this sample you can get the list of top trending videos of the specified c
 Sample 2: geolocation_with_radius.py
 
 By providing longitude and latitude you can get the YouTube Search results within the specified radius of the given location.
+
+Sample 3:	KeywordSearch.py
+
+Using this sample you can search any keyword and get the videos, channels, and Playlists related to it.
