@@ -12,4 +12,6 @@ Sample 1: TopTrendingVideos.py
 
 Using this sample you can get the list of top trending videos of the specified country.
 
-Sample 2: 
+Sample 2: geolocation_with_radius.py
+
+By providing longitude and latitude you can get the YouTube Search results within the specified radius of the given location.
