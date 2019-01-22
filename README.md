@@ -7,3 +7,9 @@ Step 2: After creating key, please ensure that you have enabled the YouTube Data
 Step 3: For the country codes please refer to the file country_code.txt and place it in the same directory where your .py file is residing.
 
 Step 4: You can also create a api_key.txt file to store the Developer API key.
+
+Sample 1: TopTrendingVideos.py
+
+Using this sample you can get the list of top trending videos of the specified country.
+
+Sample 2: 
